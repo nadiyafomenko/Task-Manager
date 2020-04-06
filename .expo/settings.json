@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "iz-m5r",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
