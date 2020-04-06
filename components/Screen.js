@@ -31,7 +31,7 @@ export default class Screen extends React.Component{
 
     openModal = () =>{
         this.setState({
-          isModalVisible: true
+          isModalVisible: true,
         })
       }
     
@@ -57,6 +57,7 @@ export default class Screen extends React.Component{
                 checked: false
               },
             ], 
+          isModalVisible: false
           })
         } catch (error){
           return(

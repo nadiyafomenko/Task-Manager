@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
 
     },
     button: {
-        marginTop: -35,
+        marginTop: -25,
         alignSelf: 'flex-end',
         justifyContent: 'center',
         alignItems: 'center',
